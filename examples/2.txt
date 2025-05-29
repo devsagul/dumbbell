@@ -1,0 +1,47 @@
+[C] Walk l:5 d:150s
+~ l:6 d:150s
+--
+Seated Row r:10 w:40:lbs
+--
+~ r:12 w:85:lbs
+--
+~ r:~ w:100:lbs
+--
+~ r:~ w:115:lbs ~
+--
+Pull-up r:6 ~
+--
+~ r:5 ~
+--
+Seated row r:12 w:85:lbs grip:narrow
+--
+~ r:~ w:100:lbs grip:~ ~
+--
+Bench press r:10 w:20:kg
+--
+~ r:~ w:55:kg
+--
+~ r:~ w:60:kg ~~
+--
+Inc DB Press r:12 w:18:kg:e ~~
+--
+Dip r:12 ~~
+--
+BB bicep curl r:10 w:25:kg
+--
+~ r:~ w:30:kg ~
+--
+Twisted seated bicep curl r:12 w:8:kg:e ~~
+--
+Tricep pushdown r:15 w:100:lbs:h handle:ez
+--
+~ r:~ w:110:lbs:h handle:~
+--
+~ r:11 w:120:lbs:h handle:~
+--
+Rope pushdown r:15 w:50:lbs:h ~
+--
+~ r:~ w:40:lbs:h
+--
+[C] Walk l:5 d:150s
+~ l:6 d:150s

@@ -1,0 +1,11 @@
+Bench press r:10 w:20:kg
+-
+~ r:~ w:45:kg ~~
+--
+Inc DB press r:10 w:12:kg:e ~~
+--
+Lat pulldown r:10 w:70:lbs ~~
+--
+Seated Row r:10 w:60:lbs ~~
+--
+Leg extension r:12 w:32:kg ~~
